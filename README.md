@@ -1,5 +1,5 @@
 the percentage of completion in the training
-PostgreSQL Bootcamp - 20
+PostgreSQL Bootcamp - 100
 PL/SQL Bootcamp - 0
 Oracle SQL - 100
 Python Mega Course - 100
